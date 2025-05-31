@@ -1,7 +1,8 @@
-streamlit>=1.45.1          # Основной фреймворк для приложения
-pandas>=2.2.3              # Обработка данных
-scikit-learn>=1.6.1        # Машинное обучение
-matplotlib>=3.10.3         # Визуализация
-seaborn>=0.13.2            # Расширенная визуализация
-ucimlrepo>=0.0.7           # Загрузка датасета (опционально)
-streamlit-reveal-slides>=0.2.0  # Для презентации
+streamlit>=1.41.0
+pandas>=1.5.3
+scikit-learn>=1.2.0
+matplotlib>=3.6.2
+seaborn>=0.12.1
+ucimlrepo>=0.0.3
+xgboost>=1.7.6
+streamlit-reveal-slides>=0.1.0

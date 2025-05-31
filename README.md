@@ -35,3 +35,7 @@
 ```bash
 git clone https://github.com/yourusername/predictive-maintenance-app.git
 cd predictive-maintenance-app
+Установите зависимости:
+pip install -r requirements.txt
+Запустите приложение:
+streamlit run app.py

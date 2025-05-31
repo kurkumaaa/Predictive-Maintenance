@@ -34,7 +34,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/kurkumaaa/Predictive-Maintenance
-cd predictive_maintenance_project
+cd Predictive-Maintenance
 
 Установите зависимости:
 pip install -r requirements.txt
